@@ -1,0 +1,37 @@
+{
+  "translation": {
+    "appName":"Kaarkun",
+    "selectLanguage":"Select Language",
+    "english":"English",
+    "urdu":"Urdu",
+    "getStarted":"Get Started",
+    "enterPhoneNumber":"Enter your Phone Number",
+    "phoneNumber":"Phone Number",
+    "login":"Login",
+    "back":"Back",
+    "otpVerificaiton":"OTP Verification",
+    "enterOTP":"Please enter OTP code",
+    "verify":"Verify",
+    "signupNow":"Sign Up Now",
+    "registerNewAccount":"Register New Account",
+    "fullName":"Full Name",
+    "enterFullName":"Enter Full Name",
+    "accountType":"Account Type",
+    "selectAccountType":"Select Account Type",
+    "enterCnic":"Enter CNIC Number",
+    "cnicNumber":"CNIC Number",
+    "select":"Select",
+
+    "createPin":"Create Pin",
+    "createSixDigitPin":"Please create 6 digits pin.",
+    "confirm":"Confirm",
+    "kaarkun":"Kaarkun",
+    "saarif":"Saarif",
+    "home":"Home",
+    "search":"Search",
+    "wallet":"Wallet",
+    "activities":"Activities",
+    "phoneNumberValidation":"Phone Number must be 10 digits"
+
+  }
+}

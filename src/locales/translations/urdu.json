@@ -1,0 +1,38 @@
+{
+  "translation": {
+    "appName": "کارکن",
+    "selectLanguage":"زبان منتخب کریں",
+    "english":"انگریزی",
+    "urdu":"اردو",
+    "getStarted":"شروع کریں",
+    "enterPhoneNumber":"اپنا موبائل نمبر درج کیجئے",
+    "phoneNumber":"موبائل نمبر",
+    "login":"لاگ ان کریں",
+    "back":"واپس جائیں",
+    "otpVerificaiton":"او ٹی پی کی تصدیق",
+    "enterOTP":"براہ کرم او ٹی پی کوڈ درج کریں۔",
+    "verify":"تصدیق کریں",
+
+    "signupNow":"سائن اپ کریں",
+    "registerNewAccount":"نیا اکاؤنٹ رجسٹر کریں",
+    "fullName":"پورا نام",
+    "enterFullName":"پورا نام درج کریں",
+    "accountType":"اکاؤنٹ کی قسم",
+    "selectAccountType":"اکاؤنٹ کی قسم منتخب کریں",
+    "enterCnic":"قومی شناختی نمبر درج کریں",
+    "cnicNumber":"قومی شناختی نمبر",
+
+    "select":"منتخب کریں",
+
+    "createPin":"پن بنائیں",
+    "createSixDigitPin":"براہ کرم 6 ہندسوں کا پن بنائیں۔",
+    "confirm":"تصدیق کریں",
+    "kaarkun":"کارکن",
+    "saarif":"سارف",
+    "home":"ہوم",
+    "search":"تلاش کریں",
+    "wallet":"کھاتہ",
+    "activities":"سرگرمیاں",
+    "phoneNumberValidation":"فون نمبر 10 ہندسوں کا ہونا چاہیے"
+  }
+}

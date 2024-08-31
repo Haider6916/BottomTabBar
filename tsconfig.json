@@ -1,0 +1,30 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "rootDirs": ["src"],
+    "noImplicitAny": false,
+    "esModuleInterop": true,
+    "jsx": "react-native",
+
+    // Path alias config
+    "baseUrl": ".",
+    "paths": {
+      "*": ["./src/*"],
+      "Assets/*": ["./src/Assets/*"],
+      "Components/*": ["./src/Components/*"],
+      "Context/*": ["./src/Context/*"],
+      "Icons/*": ["./src/Icons/*"],
+      "locales/*": ["./src/locales/*"],
+      "Masks/*": ["./src/Masks/*"],
+      "Navigation/*": ["./src/Navigation/*"],
+      "Schemas/*": ["./src/Schemas/*"],
+      "Screens/*": ["./src/Screens/*"],
+      "Services/*": ["./src/Services/*"],
+      "SvgIcons/*": ["./src/SvgIcons/*"],
+      "Utils/*": ["./src/Utils/*"]
+    }
+  }
+}
